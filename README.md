@@ -18,3 +18,10 @@ There is no need of providing a cronological or alfabetical order on these, spec
 * Think and Grow Rich - by Napoleon Hill
 * The Mythical Man-Month - by Fred Brooks
 * JavaScript: The Good Parts - by Douglas Crockford
+* Gutenberg the Geek - by Jeff Jarvis
+* Arduino For Beginners - by Matthew Oates
+
+These are on my list to read, therefore I haven't got to them yet:
+
+* Nonviolent Communication - by Marshall B. Rosenberg (Improving communication and collaboration and apply to work environment)
+* Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results - by Christina Wodtke (leadership)

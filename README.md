@@ -18,6 +18,9 @@ There is no need of providing a cronological or alfabetical order on these, spec
 * The Checklist Manifesto - by Atul Gawande
 * Think and Grow Rich - by Napoleon Hill
 
+## Reading
+* MySQL Cookbook: Solutions for Database Developers and Administrators 3rd Edition - by Paul DuBois
+
 ## Optional, but still really good read
 
 * The Law of Success - by Napoleon Hill

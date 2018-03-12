@@ -14,12 +14,15 @@ There is no need of providing a cronological or alfabetical order on these, spec
 * The Book of Five Rings - by Miyamoto Musashi
 * The Art of War - by Sun Tzu
 * The Prince - by Niccolo Machiavelli
-* Rich Dad Poor Dad - by Robert Kiyosaki and Sharon Lechter
 * The Checklist Manifesto - by Atul Gawande
-* Think and Grow Rich - by Napoleon Hill
-
-## Reading
 * MySQL Cookbook: Solutions for Database Developers and Administrators 3rd Edition - by Paul DuBois
+
+### Business or leading related:
+
+* Rise and Grind: Out-perform, out-work and out-hustle your way to a more successful and rewarding life - Daymond John
+* Think and Grow Rich - by Napoleon Hill (note: requires reading several times)
+* Rich Dad Poor Dad - by Robert Kiyosaki and Sharon Lechter
+* The 22 immutable laws of Marketing - Al Ries, Jack Trout
 
 ## Optional, but still really good read
 

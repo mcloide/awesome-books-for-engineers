@@ -28,7 +28,6 @@ There is no need of providing a cronological or alfabetical order on these, spec
 * Rich Dad Poor Dad - by Robert Kiyosaki and Sharon Lechter
 * The 22 immutable laws of Marketing - Al Ries, Jack Trout
 * Badass your brand - Pia Silva
-* Rise and Grind - Daymond John
 
 ## Optional, but still really good read
 

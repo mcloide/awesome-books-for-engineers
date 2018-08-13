@@ -28,6 +28,9 @@ There is no need of providing a cronological or alfabetical order on these, spec
 * Rich Dad Poor Dad - by Robert Kiyosaki and Sharon Lechter
 * The 22 immutable laws of Marketing - Al Ries, Jack Trout
 * Badass your brand - Pia Silva
+* Influence: The Psychology of Persuasion, Revised Edition - Robert B. Cialdini
+* The Power of Broke: How Empty Pockets, a Tight Budget, and a Hunger for Success Can Become Your Greatest Competitive Advantage - Daymond John
+* The CEO Next Door - by Tahl Raz
 
 ## Optional, but still really good read
 
@@ -39,12 +42,10 @@ There is no need of providing a cronological or alfabetical order on these, spec
 
 ## The bucket list - yet to be read
 
-* The CEO Next Door - by Tahl Raz
 * The subtle art of not giving a f*ck - by Mark Manson
 * A higher loyalty: Truth, lies and leadership - by James Comey
 * Crushing it - by Gary Vaynerchuck
 * Exactly what to say  - by Phil M. Jones
-* The Power of Broke - by Daymond John
 * The 4-hour workweek - by Timothy Ferris
 * The 5 second rule - by Mel Robbins
 * The Productivity Project - by Chris Bailey
